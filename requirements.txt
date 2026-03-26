@@ -1,7 +1,6 @@
-pyspark==3.4.1
-pandas
 streamlit
-matplotlib
+pandas
 plotly
-python-dotenv
 google-generativeai
+python-dotenv
+altair==4.2.2
