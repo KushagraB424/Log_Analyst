@@ -89,4 +89,4 @@ elif section == "AI Insights":
             st.markdown("---")
 
 st.markdown("---")
-st.markdown("Built with ❤️ using PySpark, Streamlit & Gemini AI")
+st.markdown("Built with ❤️ by Kushagra Gupta, using PySpark, Streamlit & Gemini AI")
