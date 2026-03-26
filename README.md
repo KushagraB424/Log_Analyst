@@ -49,7 +49,7 @@ This project is a scalable log analytics system that processes large-scale web s
 * **Python** – Core development
 
 ## Live Demo
-[https://loganalyst-kushagra-gupta.streamlit.app/]
+https://loganalyst-kushagra-gupta.streamlit.app/
 
 ## Use Case
 This system mimics a real-world log monitoring platform, useful for:
