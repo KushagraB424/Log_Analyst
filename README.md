@@ -3,7 +3,6 @@
 ## Overview
 This project is a scalable log analytics system that processes large-scale web server logs and provides an interactive dashboard with AI-powered insights. It combines distributed data processing (PySpark) with a modern analytics UI (Streamlit) and LLM-based intelligence (Gemini) to simulate a real-world monitoring system used in production environments.
 <img width="1913" height="838" alt="image" src="https://github.com/user-attachments/assets/3cf0c9a3-e0db-47af-83cb-6459058b63a6" />
-<img width="1913" height="838" alt="image" src="https://github.com/user-attachments/assets/3cf0c9a3-e0db-47af-83cb-6459058b63a6" />
 
 ## Key Features
 
@@ -39,7 +38,6 @@ This project is a scalable log analytics system that processes large-scale web s
 * Generates insights from metrics
 * Answers user queries in natural language
 
-<img width="1847" height="873" alt="image" src="https://github.com/user-attachments/assets/32f117a1-f9a1-40c6-86eb-4071c72ae3cb" />
 <img width="1847" height="873" alt="image" src="https://github.com/user-attachments/assets/32f117a1-f9a1-40c6-86eb-4071c72ae3cb" />
 
 
