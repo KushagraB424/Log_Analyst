@@ -20,7 +20,7 @@ st.markdown("""
 </style>
 """, unsafe_allow_html=True)
 
-st.title("🗠 Distributed Log Analytics System")
+st.title("📋 Distributed Log Analytics System")
 
 # Load data
 logs_df = load_logs()
